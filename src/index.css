@@ -4,6 +4,7 @@
 :root {
 	/* neutral */
 	--clr-light: 0, 0%, 100%;
+	--dark: 0, 0%, 0%;
 }
 
 /* ------------------- */
@@ -24,7 +25,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	/* background: hsl(var(--clr-light)); */
-	background: linear-gradient(to right, #00aaff, #00ff6c);
+	background: #00aaff;
 }
 
 /* ------------------- */
